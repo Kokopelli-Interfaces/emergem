@@ -3,7 +3,9 @@
 A live creation environment that holds an Emernet (Emergence-Network) of Nodes (Generic Signal Processing Units)
 Provides an interface for managing nodes, adjusting node parameters, emerging nodes together, capturing nodes, and composing a song/video out of captures
 
-Designed by observing the music within (the life experience), creating a visual-systems reflection of it, and basing the Emergem's design off that reflection
+Replace your DAW, and all your synths too
+
+Designed by observing the music within (the experience of conciousness), creating a visual-systems reflection of it, and basing the Emergem's design off that reflection
 
 # Sketches from the past for reference 
 
@@ -19,10 +21,12 @@ Designed by observing the music within (the life experience), creating a visual-
 ## Comparison of Usefulness/Capabilities
 ![image](https://github.com/user-attachments/assets/3d6b261c-2998-4dfc-ad32-cfb59d54427d)
 - Emergem is more capable then DAW due to having a generic node graph (free to connect from any unit node output to compatible unit node input). It also has generic polyphonic output/input types for nodes (e.g. audio, control signals, midi signals, gate signals, pitch signals, phase signals, signals for creating visuals...)
-- Emergem also provides interface for composing music.. comes up with a new way to record parts of or an entire generic graph, as well as create sections, and sequence them to create a song.. through an interface that is like a feature extended live-looping interface (so it is designed for live creation). (See Kokopelli-Interfaces Vcvrack module "Circle" for an idea)
+- Emergem also provides interface for composing music/videos.. Emergem has a novel interface for capturing parts of or an entire generic graph in time, as well as create sections, and sequence them to create a song..
+- Emergem does this all through an interface that is like a feature extended live-looping interface (so it is designed for live creation). (See Kokopelli-Interfaces Vcvrack module "Circle" for an idea)
 
 ## Emernet
 the design of the Emergem is based on my spiritual understanding of my experience of conciousness
+
 the Emergem hosts an Emernet inside it
 ![image](https://github.com/user-attachments/assets/ca5d7aef-e528-485d-ac6e-8eeab2d9f006)
 ![image](https://github.com/user-attachments/assets/e7a12968-a9d6-4ba7-bef5-432e885d3ba9)
