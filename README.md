@@ -21,8 +21,12 @@ Designed by observing the music within (the life experience), creating a visual-
 - Emergem is more capable then DAW due to having a generic node graph (free to connect from any unit node output to compatible unit node input). It also has generic polyphonic output/input types for nodes (e.g. audio, control signals, midi signals, gate signals, pitch signals, phase signals, signals for creating visuals...)
 - Emergem also provides interface for composing music.. comes up with a new way to record parts of or an entire generic graph, as well as create sections, and sequence them to create a song.. through an interface that is like a feature extended live-looping interface (so it is designed for live creation). (See Kokopelli-Interfaces Vcvrack module "Circle" for an idea)
 
-## Emernet and relationships in it
-![Untitled](https://github.com/user-attachments/assets/6a06e72a-4344-4002-a391-24255d6ed065)
+## Emernet
+the design of the Emergem is based on my spiritual understanding of my experience of conciousness
+the Emergem hosts an Emernet inside it
+![image](https://github.com/user-attachments/assets/ca5d7aef-e528-485d-ac6e-8eeab2d9f006)
+![image](https://github.com/user-attachments/assets/e7a12968-a9d6-4ba7-bef5-432e885d3ba9)
+
 
 ## Design Principle
         - Rooted in the emergence of orthogonal components
@@ -37,10 +41,6 @@ Designed by observing the music within (the life experience), creating a visual-
   		- (Use touchscreen to control blocks, or use custom physical Emergem Controller)
 	- One can develop with it as a sound designer/composer
 		○ "I can recreate this sound in my head by decomposing it into key characteristics such as: Pitch around C5, Timbre is Nasaly, High Volume, Positioned far in a room and to the left, Dynamics are clipping, Composed of Grains, Fuzzy. This is the language of the nodes in the interface."
-
-
-### Example Control Units
-![image](https://github.com/user-attachments/assets/5c892553-6483-4c45-b718-dbdcec762055)
 
 ## "As Above, So Below" Manifestation Model
 ![image](https://github.com/user-attachments/assets/10e42500-c49a-4652-8fd8-5ad019ee492f)
