@@ -10,7 +10,7 @@ Designed by observing the music within (the experience of consciousness), creati
 
 # Sketches from the Past for Reference
 
-## Problem
+## A Problem I've Had
 ![image](https://github.com/user-attachments/assets/66c6304d-7ce6-49ec-b264-ee6dc0b8b8df)
 
 ## Expression Factor x Mastery Graph
