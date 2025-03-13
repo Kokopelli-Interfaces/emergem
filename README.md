@@ -4,7 +4,7 @@ _"Emerge-a-gem"_
 A live creation environment that hosts an Emernet (Emergence-Network) of Nodes (Generic Signal Processing Units).  
 It provides an interface for managing nodes and groups of nodes, adjusting node parameters, connecting nodes together, capturing nodes in time, and composing a song or video from captures.
 
-Replace your DAW and all your synths too!
+So basically it can replace your DAW and all your synths. 
 
 Designed by observing the music within (the experience of consciousness), creating a visual-systems reflection of it, and basing Emergem's design on that reflection.
 
