@@ -20,7 +20,7 @@ _ignore the "floating nodes" part_
 
 - Emergem is more capable than a DAW due to its generic node graph (free to connect from any unit node output to a compatible unit node input). It also features generic polyphonic output/input types for nodes (e.g., audio, control signals, MIDI signals, gate signals, pitch signals, phase signals, and signals for creating visuals).
 - Emergem provides an interface for composing music and videos. It includes a novel interface for capturing parts of—or an entire—Emernet in time, as well as creating sections and sequencing them to create multi-movement songs/videos.
-    - Emergem achieves this through an interface resembling a feature-extended live-looping system (designed for live creation). (See the Kokopelli-Interfaces VCV Rack module "Circle" for an idea.)
+    - Emergem achieves this through a novel signal capturing and composition interface resembling a feature-extended live-looping system (so it's designed for live creation). (See the Kokopelli-Interfaces VCV Rack module "Circle" for an idea.)
 
 ## Design Principles
 - Rooted in the emergence of orthogonal components:
