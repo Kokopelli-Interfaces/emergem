@@ -35,8 +35,10 @@ Designed by observing the music within (the experience of consciousness), creati
 - Enables development as a sound designer or composer:
   - "I can recreate this sound in my head by decomposing it into key characteristics such as: Pitch around C5, Timbre is nasal, High Volume, Positioned far in a room and to the left, Dynamics are clipping, Composed of grains, Fuzzy. Creating this should be intuitive in the interface because it is the language of the nodes."
 
+<!--
 ## Intuitive Sound Design
 ![image](https://github.com/user-attachments/assets/2e947eab-70d3-4ad8-9166-3e35feac150d)
+-->
 
 ## Emernet
 The design of Emergem is based on my spiritual understanding of my experience of consciousness.
