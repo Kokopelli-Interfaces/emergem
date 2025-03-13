@@ -45,7 +45,7 @@ Emergem hosts an Emernet inside it:
 ![image](https://github.com/user-attachments/assets/d5059925-79dd-45a6-b7ea-256f237310ef)  
 
 One interesting difference between the Emernet in the Emergem
-and the Emernet in the experience is that two energies do not have to exist at the same point in time in order to have an emergence relationship, emergence  in the experience is not bounded by time. 
+and the Emernet in the experience is that two energies do not have to exist at the same point in time in order to have an emergence relationship, emergence  in the experience is not bound by time. 
 
 
 ![image](https://github.com/user-attachments/assets/e7a12968-a9d6-4ba7-bef5-432e885d3ba9)
