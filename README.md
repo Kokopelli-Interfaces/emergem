@@ -33,18 +33,17 @@ the Emergem hosts an Emernet inside it
 
 
 ## Design Principle
-        - Rooted in the emergence of orthogonal components
-		- "Sound design via connecting signal processing nodes together, all which do their own one thing"
-	- Musician focused sound creation, not technology focused
-		○ Functions intuitively mapping to functions in the experiential sound space
-	- Uses sound language.
-		○ E.g. Voltage Gain -> Strength, Delay Feedback -> Echo Decay, Ring Modulator -> ??
-		○ Uses synesthesia / visual language.
-	- Interacting with a real-time, 'living' system.
- 	- Feels like using an instrument, not a workstation 
-  		- (Use touchscreen to control blocks, or use custom physical Emergem Controller)
-	- One can develop with it as a sound designer/composer
-		○ "I can recreate this sound in my head by decomposing it into key characteristics such as: Pitch around C5, Timbre is Nasaly, High Volume, Positioned far in a room and to the left, Dynamics are clipping, Composed of Grains, Fuzzy. This is the language of the nodes in the interface."
+ - Rooted in the emergence of orthogonal components
+	- "Sound design via connecting signal processing nodes together, all which do their own one thing"
+- Musician focused sound creation, not technology focused
+ 	 - Functions intuitively mapping to functions in the experiential sound space
+- Uses sound language.
+- Uses synesthetic visuals for representing the outputs and states of nodes.
+- Interacting with a real-time, 'living' system.
+- Feels like using an instrument, not a workstation 
+  	- (Use touchscreen to control blocks, or use custom physical Emergem Controller)
+- One can develop with it as a sound designer/composer
+	 - "I can recreate this sound in my head by decomposing it into key characteristics such as: Pitch around C5, Timbre is Nasaly, High Volume, Positioned far in a room and to the left, Dynamics are clipping, Composed of Grains, Fuzzy. Creating this should be intuitive in the interface because it is the language of the nodes in the interface."
 
 ## "As Above, So Below" Manifestation Model
 ![image](https://github.com/user-attachments/assets/10e42500-c49a-4652-8fd8-5ad019ee492f)
