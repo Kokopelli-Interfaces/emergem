@@ -8,8 +8,6 @@ Replace your DAW and all your synths too!
 
 Designed by observing the music within (the experience of consciousness), creating a visual-systems reflection of it, and basing Emergem's design on that reflection.
 
-# Sketches from the Past for Reference
-
 ## A Problem I've Had
 ![image](https://github.com/user-attachments/assets/66c6304d-7ce6-49ec-b264-ee6dc0b8b8df)
 
