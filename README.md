@@ -49,6 +49,8 @@ Emergem hosts an Emernet inside it:
 One interesting difference between the Emernet in the Emergem
 and the Emernet in the experience is that two energies do not have to exist at the same point in time in order to have an emergence relationship, emergence  in the experience is not bound by time. 
 
+### Circle of Life
+This is the song of the Emernet that plays without beginning or end:
 
 ![image](https://github.com/user-attachments/assets/e7a12968-a9d6-4ba7-bef5-432e885d3ba9)
 
