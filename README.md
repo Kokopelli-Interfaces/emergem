@@ -13,7 +13,7 @@ Designed by observing the music within (the experience of consciousness), creati
 ## Problem
 ![image](https://github.com/user-attachments/assets/66c6304d-7ce6-49ec-b264-ee6dc0b8b8df)
 
-## Expression Factor x Virtuosity Graph
+## Expression Factor x Mastery Graph
 ![image](https://github.com/user-attachments/assets/b6b46697-77e4-4290-9a08-5b7003db1257)
 
 ## Comparison of Usefulness/Capabilities
